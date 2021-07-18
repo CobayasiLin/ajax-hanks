@@ -1,0 +1,11 @@
+{
+    "users" : [
+        {
+            "firstname":"",
+            "lastname":"",
+            "gender":"",
+            "country":"",
+            "ID":0
+        }
+    ]
+}
